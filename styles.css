@@ -1,0 +1,21 @@
+/* 
+    Document   : styles
+    Created on : 12-Sep-2011, 12:58:46
+    Author     : BIZZY-KLIX
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#postsectionsadmin{display: block;width:60%;margin:20px auto;}
+#center,#leftads,#rightads{display: inline;float:left;}
+#postsectionsadmin form {}
+#postsectionsadmin input{border:1px solid #ccc;width:20em;}
+#postsectionsadmin .left, #postsectionsadmin label{float:left;}
+#postsectionsadmin .right{float:right;}
+#postsectionsadmin input.psbutton,#postsectionsadmin p.result {border:1px solid #cccc00;display:block;clear:both;margin:10px 0px;}
+hr,.clear {clear:both;}
